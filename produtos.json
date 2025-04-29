@@ -1,0 +1,22 @@
+{
+    "Mercearia Salgada": [
+      { "nome": "BAT FRIT LISA CONTINENTE 200G", "preco": 1.25, "iva": 0.23, "desconto": 0.00 },
+      { "nome": "SALSICHA SOJA IZIDORO LATA 180G", "preco": 1.87, "iva": 0.23, "desconto": 0.50 }
+    ],
+    "Charcutaria": [
+      { "nome": "BLOCO ESTILO GREGO VIOLIFE 200G", "preco": 2.97, "iva": 0.06, "desconto": 0.52 }
+    ],
+    "Padaria": [
+      { "nome": "PÃO DE FORMA INTEGRAL 500G", "preco": 1.99, "iva": 0.06, "desconto": 0.00 },
+      { "nome": "CROISSANT SIMPLES 80G", "preco": 0.75, "iva": 0.06, "desconto": 0.15 }
+    ],
+    "Bebidas": [
+      { "nome": "ÁGUA MINERAL 1.5L", "preco": 0.48, "iva": 0.06, "desconto": 0.00 },
+      { "nome": "REFRIGERANTE COLA 2L", "preco": 1.89, "iva": 0.23, "desconto": 0.30 }
+    ],
+    "Frutas e Legumes": [
+      { "nome": "BANANA KG", "preco": 1.29, "iva": 0.06, "desconto": 0.00 },
+      { "nome": "TOMATE KG", "preco": 2.49, "iva": 0.06, "desconto": 0.50 }
+    ]
+  }
+  
